@@ -1,9 +1,3 @@
-<!--
-  This is a GitHub Profile README.
-  It lives in a public repo named exactly after the username (vivekreddy/vivekreddy)
-  so GitHub renders it at the top of the profile page.
--->
-
 <h1 align="center">Hi, I'm Vivek 👋</h1>
 
 <p align="center">
