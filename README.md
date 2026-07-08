@@ -10,10 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vivek-portfolio-vivekreddy.netlify.app"><img alt="Live portfolio" src="https://img.shields.io/badge/Interactive%20r%C3%A9sum%C3%A9-Live%20demo-2ea043?style=for-the-badge&logo=netlify&logoColor=white"></a>
   <a href="https://linkedin.com/in/vivekreddy"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/vivekreddy"><img alt="X" src="https://img.shields.io/badge/@vivekreddy-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="mailto:starlancegrp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -22,16 +19,12 @@
 
 I take products from a blank repo to something people actually use. In practice that means jumping across the stack in a single project — a **Shopify Cart Transform Function** one day, a **SwiftUI** view or a **Flutter** paywall the next, and a **Next.js** front end after that. Most of my work is private client and product code, so the sections below are **architectural write-ups** rather than open source — the "how it's built," with diagrams, since the source isn't public.
 
-## 🖥 Interactive résumé — live demo
+## 🖥 Interactive résumé
 
-To make this profile more than a static page, I rebuilt GitHub's own profile **Overview** as a pixel-faithful clone and deployed it. It's a genuine front-end exercise (**Next.js 16 · React 19 · Tailwind v4 · TypeScript**), with a deterministically-seeded contribution heatmap that renders identically on server and client.
+To make this profile more than a static page, I rebuilt GitHub's own profile **Overview** as a pixel-faithful clone. It's a genuine front-end exercise (**Next.js 16 · React 19 · Tailwind v4 · TypeScript**), with a deterministically-seeded contribution heatmap that renders identically on server and client.
 
 <p align="center">
-  <a href="https://vivek-portfolio-vivekreddy.netlify.app">
-    <img src="assets/portfolio.png" alt="Interactive résumé — a pixel-faithful GitHub profile clone" width="820">
-  </a>
-  <br/>
-  <sub><b><a href="https://vivek-portfolio-vivekreddy.netlify.app">▶ vivek-portfolio-vivekreddy.netlify.app</a></b> — click to interact</sub>
+  <img src="assets/portfolio.png" alt="Interactive résumé — a pixel-faithful GitHub profile clone" width="820">
 </p>
 
 ---
@@ -221,8 +214,5 @@ A **Next.js** community platform for Hindu temples, events, and resources — no
 <p align="center">
   <b>Let's build something.</b>
   <br/>
-  <a href="https://vivek-portfolio-vivekreddy.netlify.app">Portfolio</a> ·
-  <a href="https://linkedin.com/in/vivekreddy">LinkedIn</a> ·
-  <a href="https://x.com/vivekreddy">X</a> ·
-  <a href="mailto:starlancegrp@gmail.com">starlancegrp@gmail.com</a>
+  <a href="https://linkedin.com/in/vivekreddy">LinkedIn</a>
 </p>
