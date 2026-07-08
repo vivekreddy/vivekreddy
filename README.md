@@ -1,43 +1,66 @@
-<h1 align="center">Hi, I'm Vivek 👋</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Vivek%20Reddy&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Founder%20%7C%20Full-Stack%20Engineer%20%7C%20Commerce%20Apps%20%7C%20Cross-Platform%20Mobile%20%7C%20Native%20macOS%20%2F%20iOS&descAlignY=52&descAlign=50&descSize=18)
 
-<p align="center">
-  <b>Founder &amp; full-stack engineer.</b> I build and ship products end to end —
-  <br/>commerce apps, cross-platform mobile, native macOS/iOS, and polished web front ends.
-</p>
+<div align="center">
 
-<p align="center">
-  📍 Bengaluru, India &nbsp;·&nbsp; 🛠 Building under <a href="https://github.com/starlance"><b>@starlance</b></a> &nbsp;·&nbsp; ⚡ Currently shipping <b>Starlog</b>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Founder+%26+Full-Stack+Engineer;Shipped%3A+Mac+File+Organizer+%7C+Native+macOS+App;Building+Starlog+%7C+Flutter+%7C+iOS+%2B+Android;Starbundle+%7C+Shopify+Mix+%26+Match+Bundles;TypeScript+%7C+Swift+%7C+Dart+%7C+Next.js+%7C+Remix;From+blank+repo+to+shipped+product&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://linkedin.com/in/vivekreddy"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekreddy)
+[![Organization](https://img.shields.io/badge/Building_under-@starlance-2ea043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starlance)
+[![Location](https://img.shields.io/badge/Bengaluru-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+
+</div>
 
 ---
 
-## 🎯 What I do
+## About Me
 
-I take products from a blank repo to something people actually use. In practice that means jumping across the stack in a single project — a **Shopify Cart Transform Function** one day, a **SwiftUI** view or a **Flutter** paywall the next, and a **Next.js** front end after that. Most of my work is private client and product code, so the sections below are **architectural write-ups** rather than open source — the "how it's built," with diagrams, since the source isn't public.
+I'm a **founder and full-stack engineer** who takes products from a blank repo to something people actually use. In practice that means jumping across the stack in a single project — a **Shopify Cart Transform Function** one day, a **SwiftUI** view or a **Flutter** paywall the next, and a **Next.js** front end after that. Most of my work is private client and product code, so this page is built from **architectural write-ups** — the "how it's built," with diagrams — rather than open source.
 
-## 🖥 Interactive résumé
+<table>
+<tr>
+<td width="50%">
 
-To make this profile more than a static page, I rebuilt GitHub's own profile **Overview** as a pixel-faithful clone. It's a genuine front-end exercise (**Next.js 16 · React 19 · Tailwind v4 · TypeScript**), with a deterministically-seeded contribution heatmap that renders identically on server and client.
+```yaml
+Current Focus  : Starlog — Flutter app (iOS + Android)
+Shipped        : Mac File Organizer (native macOS)
+               : ReceiptScanner (iOS, on-device OCR)
+In Flight      : Starbundle (Shopify commerce app)
+               : HinduHub (Next.js community platform)
+Languages      : TypeScript · Swift · Dart · JavaScript
+Platforms      : Web · iOS · Android · macOS · Shopify
+Base           : Bengaluru, India — under @starlance
+Mode           : Solo founder — design → build → ship
+```
 
-<p align="center">
-  <img src="assets/portfolio.png" alt="Interactive résumé — a pixel-faithful GitHub profile clone" width="820">
-</p>
+</td>
+<td width="50%">
+
+**Currently Building:**
+- 📱 **Starlog** — cross-platform Flutter app, subscriptions & consumable packs via RevenueCat
+- 🛒 **Starbundle** — Shopify Mix & Match bundles with checkout-safe tiered discounts
+- 🕉 **HinduHub** — temple & events platform computing panchang data client-side
+- 🌐 Product & marketing sites for the **Starlance** studio
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured work
+## 🛒 Flagship Project — Starbundle
 
-> Deep-dives are collapsed to keep this scannable. Expand any project for the full architecture.
+**Shopify "Mix & Match" bundles app.** Merchants define bundles with tiered discounts (*any 3 → 10%, any 5 → 20%*); shoppers pick any *N* items from configured collections; the storefront widget calculates the discount live — and, critically, the discount **survives checkout** via a Cart Transform Function instead of fragile cart attributes.
 
-### 🛒 Starbundle — Shopify "Mix &amp; Match" bundles app
+<div align="center">
 
-A Shopify app that lets merchants build **Mix &amp; Match** bundles with **tiered discounts**. Shoppers pick any *N* items from configured collections; the storefront widget calculates the discount live, and — critically — the discount **survives checkout** via a Cart Transform Function instead of fragile cart attributes.
+[![Framework](https://img.shields.io/badge/Remix_2.16-Vite-000000?style=flat-square&logo=remix)]()
+[![Admin](https://img.shields.io/badge/Polaris_12-App_Bridge-5c6ac4?style=flat-square&logo=shopify)]()
+[![DB](https://img.shields.io/badge/Prisma-SQLite_%2F_Postgres-2d3748?style=flat-square&logo=prisma)]()
+[![Function](https://img.shields.io/badge/Cart_Transform-Function-95bf47?style=flat-square&logo=shopify)]()
+[![Widget](https://img.shields.io/badge/Theme_App-Extension-95bf47?style=flat-square&logo=shopify)]()
+[![Tests](https://img.shields.io/badge/Vitest-18_passing-brightgreen?style=flat-square)]()
 
-`Remix 2.16 (Vite)` · `Polaris 12 + App Bridge` · `Prisma + SQLite/Postgres` · `Cart Transform Function` · `Theme app extension` · `Vitest`
+</div>
 
 ```mermaid
 flowchart LR
@@ -61,43 +84,65 @@ flowchart LR
     R -. "same tier logic" .-> PL
     CT -. "JS mirror of pricing.ts" .-> PL
     CO --> CT -->|"apply best-eligible tier"| CO
+
+    style W fill:#95bf47,color:#fff
+    style AP fill:#5c6ac4,color:#fff
+    style CT fill:#ff6b6b,color:#fff
+    style CO fill:#231f20,color:#fff
+    style R fill:#009688,color:#fff
+    style PL fill:#1f6feb,color:#fff
+    style DB fill:#2d3748,color:#fff
+    style ADM fill:#8957e5,color:#fff
 ```
 
 <details>
-<summary><b>Architecture notes</b></summary>
+<summary><b>Key engineering decisions</b></summary>
 
-- **One source of truth for pricing, mirrored across two runtimes.** Tier evaluation (`any 3 → 10%`, `any 5 → 20%`, highest-eligible wins) lives in `app/lib/pricing.ts`, unit-tested with Vitest. The Cart Transform Function can't import app code, so `pricing.js` is a deliberate mirror — the tests guard both.
-- **Discounts persist without cart hacks.** Rather than writing cart attributes and hoping they survive, the **Cart Transform Function** re-derives the discount at checkout from the bundle definition, so totals are correct even if the shopper edits the cart.
-- **App Proxy is the storefront's only door in.** The widget talks to `proxy.bundle.tsx` (definition + products) and `proxy.events.tsx` (analytics) through Shopify's App Proxy, with HMAC verification in `proxyAuth.server.ts`.
-- **Attribution via webhooks.** `webhooks.orders.create.tsx` closes the loop — views → add-to-carts → conversions are counted per bundle for the analytics dashboard.
-- **Onboarding that actually verifies.** The onboarding route polls live theme settings (`api.onboarding-check.tsx`) to confirm the storefront extension is enabled before declaring setup complete.
-
-</details>
-
----
-
-### 📱 Starlog — cross-platform mobile app *(in active development)*
-
-The product I'm currently building. A **Flutter** app targeting **iOS and Android** from one codebase, monetized with subscriptions **and** consumable packs.
-
-`Flutter / Dart` · `RevenueCat (purchases_flutter)` · `iOS + Android`
-
-<details>
-<summary><b>Architecture notes</b></summary>
-
-- **Monetization via RevenueCat.** Subscriptions and consumable receipt packs are delivered through `purchases_flutter`, configured at boot with platform SDK keys.
-- **No secrets in git.** Keys are injected with `--dart-define-from-file` from a gitignored `dart_defines.json`; `scripts/run.sh` and the VS Code launch configs wire it up so local runs and CI stay clean.
-- **One codebase, two stores.** Shared Dart UI and business logic ship to both App Store and Play Store.
+| Decision | Why it matters |
+|----------|----------------|
+| **One pricing brain, two runtimes** | Tier evaluation lives in `pricing.ts` (unit-tested); the Cart Transform Function can't import app code, so `pricing.js` is a deliberate, test-guarded mirror |
+| **Cart Transform over cart attributes** | The discount is re-derived at checkout from the bundle definition — totals stay correct even if the shopper edits the cart |
+| **App Proxy is the only door in** | Storefront widget talks to the app exclusively through HMAC-verified App Proxy routes |
+| **Attribution via webhooks** | `orders/create` webhook closes the loop — views → add-to-carts → conversions per bundle |
+| **Onboarding that verifies** | Polls live theme settings to confirm the storefront extension is actually enabled before declaring setup complete |
 
 </details>
 
 ---
 
-### 🗂 Mac File Organizer — native macOS app *(shipped)*
+## 🚀 Products
 
-A **SwiftUI** macOS app that sorts a folder's files into categorized destinations by type, with a polished dark UI. Distributed to users via a public [releases repo](https://github.com/vivekreddy/Mac-File-Organizer-Releases).
+### 📱 Starlog — Cross-Platform Mobile App *(current focus)*
 
-`SwiftUI` · `macOS 14+` · `SF Symbols` · `Drag &amp; drop`
+<div align="center">
+
+[![Flutter](https://img.shields.io/badge/Flutter-iOS_%2B_Android-02569b?style=flat-square&logo=flutter)]()
+[![RevenueCat](https://img.shields.io/badge/RevenueCat-Subscriptions_%2B_Consumables-f25a5a?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=flat-square)]()
+
+</div>
+
+```yaml
+What      : The product I'm currently building — one Dart codebase, two stores
+Monetize  : Subscriptions AND consumable packs via purchases_flutter
+Secrets   : --dart-define-from-file from a gitignored dart_defines.json —
+            keys never touch git, local runs and CI stay clean
+Ecosystem : Companion marketing site (Next.js) built alongside the app
+```
+
+---
+
+### 🗂 Mac File Organizer — Native macOS App *(shipped)*
+
+<div align="center">
+
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-macOS_14+-0071e3?style=flat-square&logo=swift)]()
+[![Releases](https://img.shields.io/badge/Public-Releases_Channel-2ea043?style=flat-square&logo=github)](https://github.com/vivekreddy/Mac-File-Organizer-Releases)
+[![Status](https://img.shields.io/badge/Status-Shipped-brightgreen?style=flat-square)]()
+
+</div>
+
+A **SwiftUI** macOS app that sorts a folder's files into categorized destinations by type — real-time search, drag & drop, spring animations, translucent materials, SF Symbol icons per file type. Distributed to users via a [public releases repo](https://github.com/vivekreddy/Mac-File-Organizer-Releases).
 
 ```mermaid
 flowchart LR
@@ -108,23 +153,25 @@ flowchart LR
     C --> VID["Video / Audio"]
     C --> ARC["Archives"]
     C --> OTH["Other"]
+
+    style SRC fill:#1f6feb,color:#fff
+    style SCAN fill:#8957e5,color:#fff
+    style C fill:#f05138,color:#fff
 ```
-
-<details>
-<summary><b>Highlights</b></summary>
-
-- **Real product, not a toy.** Ships as a distributable macOS build with a dedicated public releases channel.
-- **SwiftUI-native UX** — real-time search, drag &amp; drop, quick-access sidebar, spring animations, translucent materials, and automatic SF Symbol icons per file type.
-
-</details>
 
 ---
 
-### 🧾 ReceiptScanner — iOS expense capture
+### 🧾 ReceiptScanner — iOS Expense Capture *(shipped)*
 
-An **iOS** app that photographs receipts, reads them with **on-device OCR**, and files them into Google Drive organized by month — no data leaves the phone until you upload.
+<div align="center">
 
-`SwiftUI` · `Vision (on-device OCR)` · `Google Drive API` · `GoogleSignIn`
+[![Vision](https://img.shields.io/badge/Vision-On--device_OCR-000000?style=flat-square&logo=apple)]()
+[![Drive](https://img.shields.io/badge/Google_Drive-Auto--filing-4285F4?style=flat-square&logo=googledrive&logoColor=white)]()
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS-f05138?style=flat-square&logo=swift)]()
+
+</div>
+
+Photograph a receipt → **on-device Vision OCR** extracts store, amount & date → manual-correct sheet → files to Google Drive as `YYYY-MM-DD_Store_Amount.jpg` under `Receipts / YYYY-MM`. No data leaves the phone until upload.
 
 ```mermaid
 flowchart LR
@@ -133,86 +180,182 @@ flowchart LR
     EX --> ED["Manual edit sheet"]
     ED --> FN["YYYY-MM-DD_Store_Amount.jpg"]
     FN --> GD[("Google Drive<br/>Receipts / YYYY-MM")]
+
+    style CAM fill:#8957e5,color:#fff
+    style OCR fill:#000000,color:#fff
+    style GD fill:#4285F4,color:#fff
 ```
 
-<details>
-<summary><b>Highlights</b></summary>
+---
 
-- **On-device OCR first.** Apple's Vision framework auto-detects store name, amount, and date locally; the user can correct any field before upload.
-- **Deterministic filing.** Every receipt lands as `YYYY-MM-DD_Store_Amount.jpg` under a `Receipts / YYYY-MM` folder tree in Drive, with live upload progress.
+### 🕉 HinduHub — Community Platform
+
+<div align="center">
+
+[![Next.js](https://img.shields.io/badge/Next.js-React-000000?style=flat-square&logo=nextdotjs)]()
+[![Astronomy](https://img.shields.io/badge/astronomy--engine-Panchang_computation-1f6feb?style=flat-square)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178c6?style=flat-square&logo=typescript)]()
+
+</div>
+
+A **Next.js** platform for Hindu temples, events, and resources — notably computing **panchang data (tithis, nakshatras) client-side** with `astronomy-engine` instead of relying on a lookup API.
+
+---
+
+### 🖥 This Profile, Rebuilt as an App
+
+I rebuilt GitHub's own profile **Overview** as a pixel-faithful clone — **Next.js 16 · React 19 · Tailwind v4 · TypeScript**, with a deterministically-seeded contribution heatmap that renders identically on server and client (no hydration mismatch).
+
+<p align="center">
+  <img src="assets/portfolio.png" alt="Pixel-faithful GitHub profile clone built with Next.js 16" width="820">
+</p>
+
+---
+
+## 📦 More Projects
+
+| Project | Stack | What it is |
+|---------|-------|------------|
+| **starlance-website** | TypeScript · Next.js | Studio / product site for Starlance |
+| **starlog-website** | TypeScript · Next.js | Marketing site for the Starlog app |
+| **[WebLinkScan](https://github.com/vivekreddy/WebLinkScan)** | TypeScript | Crawls a site and reports broken links |
+| **[dev-utility-hub](https://github.com/vivekreddy/dev-utility-hub)** | TypeScript | Collection of developer utilities |
+| **shopify-currency-converter** | Liquid | Storefront currency conversion for Shopify themes |
+| **cultfit-attribution / -renewals** | JavaScript | Marketing attribution & renewals analytics pipelines |
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,swift,dart,flutter,react,nextjs,tailwind&theme=dark&perline=8)](https://skillicons.dev)
+
+**Backend & Data**
+
+[![Backend](https://skillicons.dev/icons?i=remix,nodejs,prisma,postgres,sqlite,graphql,vite,vitest&theme=dark&perline=8)](https://skillicons.dev)
+
+**Platforms & Tools**
+
+[![Tools](https://skillicons.dev/icons?i=apple,androidstudio,git,github,vscode,netlify,vercel,figma&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<details>
+<summary><b>Full Stack Breakdown</b></summary>
+
+```javascript
+const stack = {
+  languages: ["TypeScript", "Swift", "Dart", "JavaScript"],
+  web: ["Next.js 16", "React 19", "Remix 2", "Tailwind v4", "Astro"],
+  mobile: ["Flutter", "SwiftUI (iOS)", "RevenueCat (purchases_flutter)"],
+  desktop: ["SwiftUI (macOS 14+)", "SF Symbols", "Vision framework"],
+  commerce: ["Shopify Cart Transform Functions", "Theme App Extensions",
+             "App Proxy (HMAC)", "Polaris 12 + App Bridge", "Liquid"],
+  data: ["Prisma", "PostgreSQL", "SQLite"],
+  apis: ["Shopify Admin GraphQL", "Google Drive API", "GoogleSignIn"],
+  testing: ["Vitest"],
+  deployment: ["Netlify", "Vercel", "App Store", "Play Store", "Shopify App Store"],
+  practices: ["Secrets via dart-define / gitignored files",
+              "Deterministic seeds over hydration bugs",
+              "Shared logic mirrored across runtimes, guarded by tests"],
+};
+```
 
 </details>
 
 ---
 
-### 🕉 HinduHub &amp; web work
+## 🎯 Focus Areas
 
-A **Next.js** community platform for Hindu temples, events, and resources — notably using **`astronomy-engine`** to compute panchang/astronomical data (tithis, nakshatras) client-side. Part of a broader stream of Next.js / Astro / TypeScript sites I build for products and clients.
+<div align="center">
 
-`Next.js` · `React` · `TypeScript` · `astronomy-engine` · `date-fns`
+```mermaid
+mindmap
+  root((Focus))
+    Starlog Launch
+      App Store
+      Play Store
+      RevenueCat monetization
+    Commerce
+      Starbundle on Shopify App Store
+      Cart Transform Functions
+      Theme app extensions
+    Native Apps
+      SwiftUI macOS
+      On-device Vision OCR
+    Web Platform
+      HinduHub community
+      Next.js 16 · React 19
+    Studio
+      Starlance client work
+      Product & marketing sites
+```
 
----
-
-<details>
-<summary><h3>📦 More projects</h3></summary>
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **starlance-website** | Studio / product site for Starlance | TypeScript · Next.js |
-| **starlog-website** | Marketing site for the Starlog app | TypeScript · Next.js |
-| **cultfit-attribution / -renewals** | Marketing attribution &amp; renewals analytics | JavaScript |
-| **shopify-currency-converter** | Storefront currency conversion | Liquid |
-| **WebLinkScan** | Broken-link / web link scanner | TypeScript |
-| **dev-utility-hub** | Collection of developer utilities | TypeScript |
-| **Expense-Manager-iOS** | See *ReceiptScanner* above | Swift |
-
-</details>
-
----
-
-## 🧰 Toolbox
-
-**Languages**
-<br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-
-**Web &amp; mobile**
-<br/>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0071e3?style=flat-square&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
-
-**Platform &amp; tooling**
-<br/>
-![Shopify](https://img.shields.io/badge/Shopify-7ab55c?style=flat-square&logo=shopify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00c7b7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vivekreddy&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" alt="Vivek's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekreddy&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
-</p>
+<div align="center">
 
-<sub>Language totals reflect public repos; most of my work is private, so this under-counts Swift, Dart, and Liquid.</sub>
+[![trophy](https://github-profile-trophy.vercel.app/?username=vivekreddy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=vivekreddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=vivekreddy&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekreddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekreddy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekreddy/vivekreddy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekreddy/vivekreddy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vivekreddy/vivekreddy/output/github-snake.svg" />
+</picture>
+
+<sub>Most of my work is in private repos — public language stats under-count Swift, Dart, and Liquid.</sub>
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Let's build something.</b>
-  <br/>
-  <a href="https://linkedin.com/in/vivekreddy">LinkedIn</a>
-</p>
+## ✅ Goals
+
+- [x] Ship **Mac File Organizer** — native macOS app with a public releases channel
+- [x] Ship **ReceiptScanner** — on-device OCR receipt filing for iOS
+- [x] Build **Starbundle v1** — Shopify Mix & Match bundles (18 tests passing)
+- [x] Build **HinduHub** — panchang-aware community platform
+- [x] Rebuild GitHub's profile UI as a pixel-faithful **Next.js 16** clone
+- [ ] Launch **Starlog** on the App Store & Play Store
+- [ ] Launch **Starbundle** on the Shopify App Store
+- [ ] **Starbundle v2** — classic bundles, subscriptions, A/B testing
+
+---
+
+## Philosophy
+
+> *"Building things that ship — a product isn't done until users have it."*
+
+| Principle | Practice |
+|-----------|----------|
+| **Ship it** | Every project targets a store, a release channel, or production — not a demo folder |
+| **One brain, many runtimes** | Shared logic (like bundle pricing) mirrored across runtimes, guarded by the same tests |
+| **No fragile hacks** | Cart Transform over cart attributes · deterministic seeds over hydration bugs |
+| **Secrets stay out of git** | `--dart-define-from-file`, gitignored key files, clean CI |
+| **On-device first** | Vision OCR before cloud OCR — data leaves the phone only when the user says so |
+
+---
+
+<div align="center">
+
+**Let's build something.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekreddy)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
