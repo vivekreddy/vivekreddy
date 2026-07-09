@@ -263,10 +263,7 @@ A **Next.js** platform for Hindu temples, events, and resources — computing **
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vivekreddy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://github-readme-stats.vercel.app/api?username=vivekreddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=vivekreddy&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=vivekreddy&theme=tokyonight&hide_border=true" alt="GitHub Streak — total contributions since 2011" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekreddy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
