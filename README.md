@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Principal+Product+Manager+%40+BrowserStack;14%2B+Years+in+B2B+SaaS+%7C+IIM+Mumbai;0%E2%86%921%3A+Website+Scanner+%7C+8%2C000%2B+Users;%241M%2B+Incremental+ARR+Shipped;A+PM+Who+Ships%3A+Flutter+%7C+Shopify+%7C+SwiftUI;Product+Strategy+%7C+Monetisation+%7C+Growth&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Principal+Product+Manager+%40+BrowserStack;14%2B+Years+in+B2B+SaaS+%7C+IIM+Mumbai;0%E2%86%921%3A+Website+Scanner+%7C+8%2C000%2B+Users;%241M%2B+Incremental+ARR+Shipped;Building+Starlog+%7C+starlogapp.com;A+PM+Who+Ships%3A+Flutter+%7C+Shopify+%7C+SwiftUI;Product+Strategy+%7C+Monetisation+%7C+Growth&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekvardhanreddy/)
 [![Education](https://img.shields.io/badge/IIM_Mumbai-MBA-8957e5?style=for-the-badge&logo=bookstack&logoColor=white)]()
@@ -16,7 +16,7 @@
 
 **Principal Product Manager with 14+ years in B2B SaaS**, specializing in **0→1 product development** and **platform scaling**. I've led products generating **$1M+ ARR** and acquired **8,000+ users** at BrowserStack, with a career spanning Oracle, Gainsight, LeanIX, and BrowserStack.
 
-What makes me different: **I build what I spec.** Outside work I ship real products end to end — a Flutter app with RevenueCat monetization, a Shopify commerce app with checkout-safe discount logic, native macOS/iOS apps. My product judgment is grounded in engineering reality, not just frameworks.
+What makes me different: **I build what I spec.** Outside work I ship real products end to end — **[Starlog](https://starlogapp.com/)**, a receipt scanner & expense app for small businesses; a Shopify commerce app with checkout-safe discount logic; native macOS/iOS apps. My product judgment is grounded in engineering reality, not just frameworks.
 
 <table>
 <tr>
@@ -86,6 +86,50 @@ timeline
 
 > A PM's roadmap is only as good as their grasp of what it takes to build it. These are products I've designed, built, and shipped myself — end to end.
 
+### 📱 Starlog — Receipt Scanner & Expense App *(flagship · live)*
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_starlogapp.com-Live-2ea043?style=for-the-badge)](https://starlogapp.com/)
+[![Repo](https://img.shields.io/badge/GitHub-starlog-181717?style=for-the-badge&logo=github)](https://github.com/vivekreddy/starlog)
+
+[![Flutter](https://img.shields.io/badge/Flutter-iOS_%2B_Android-02569b?style=flat-square&logo=flutter)]()
+[![RevenueCat](https://img.shields.io/badge/RevenueCat-Subscriptions_%2B_Receipt_Packs-f25a5a?style=flat-square)]()
+[![Drive](https://img.shields.io/badge/Drive--native-Your_data%2C_your_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)]()
+[![Teams](https://img.shields.io/badge/Teams-Free%2C_no_per--seat_fees-8957e5?style=flat-square)]()
+
+</div>
+
+**Every receipt, accounted for. Automatically.** Snap a receipt — Starlog reads the store and amount in one OCR pass, categorises it, groups spend into trips or projects, and files it to **your own Google Drive** in a clean year/month tree. Teammates capture on their phones (invited with a 6-character code), you approve from an Inbox, and each business you run keeps its own receipts, reports, and Drive folder.
+
+```mermaid
+flowchart LR
+    SNAP["📷 Teammate snaps<br/>receipt on phone"] --> OCR["OCR<br/>store + amount, one pass"]
+    OCR --> CAT["Auto-categorise<br/>trips · projects"]
+    CAT --> INBOX["Owner's Inbox<br/>approve / reject"]
+    INBOX --> DRIVE[("Your own Google Drive<br/>Business / YYYY / MM")]
+    DRIVE --> REP["Reports<br/>category breakdown"]
+
+    style SNAP fill:#8957e5,color:#fff
+    style OCR fill:#231f20,color:#fff
+    style CAT fill:#1f6feb,color:#fff
+    style INBOX fill:#f0883e,color:#fff
+    style DRIVE fill:#4285F4,color:#fff
+    style REP fill:#2ea043,color:#fff
+```
+
+```yaml
+Product   : Receipt scanner & expense tracker for small businesses
+Position  : Drive-native — receipts land in YOUR Drive; Starlog never holds your data
+Teams     : Teammates snap, you approve — free, no per-seat fees
+Monetise  : Subscriptions + consumable receipt packs via RevenueCat
+Stack     : Flutter — one Dart codebase → iOS + Android
+Origin    : Validated as a native Swift prototype (on-device Vision OCR → Drive),
+            then productized in Flutter — prototype → PMF signal → product
+```
+
+---
+
 ### 🛒 Starbundle — Shopify "Mix & Match" Bundles App
 
 <div align="center">
@@ -148,16 +192,6 @@ flowchart LR
 
 ---
 
-### 📱 Starlog — Cross-Platform Mobile App *(current focus)*
-
-[![Flutter](https://img.shields.io/badge/Flutter-iOS_%2B_Android-02569b?style=flat-square&logo=flutter)]()
-[![RevenueCat](https://img.shields.io/badge/RevenueCat-Subscriptions_%2B_Consumables-f25a5a?style=flat-square)]()
-[![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=flat-square)]()
-
-One Dart codebase targeting both stores. Monetized with **subscriptions and consumable packs** via RevenueCat (`purchases_flutter`) — a hands-on lab for the monetisation strategy I practice as a PM. Secrets injected via `--dart-define-from-file` from gitignored config, so keys never touch git.
-
----
-
 ### 🗂 Mac File Organizer — Native macOS App *(shipped)*
 
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-macOS_14+-0071e3?style=flat-square&logo=swift)]()
@@ -165,16 +199,6 @@ One Dart codebase targeting both stores. Monetized with **subscriptions and cons
 [![Status](https://img.shields.io/badge/Status-Shipped-brightgreen?style=flat-square)]()
 
 A **SwiftUI** app that sorts a folder's files into categorized destinations by type — real-time search, drag & drop, SF Symbol icons per file type. Distributed to users via a [public releases repo](https://github.com/vivekreddy/Mac-File-Organizer-Releases).
-
----
-
-### 🧾 ReceiptScanner — iOS Expense Capture *(shipped)*
-
-[![Vision](https://img.shields.io/badge/Vision-On--device_OCR-000000?style=flat-square&logo=apple)]()
-[![Drive](https://img.shields.io/badge/Google_Drive-Auto--filing-4285F4?style=flat-square&logo=googledrive&logoColor=white)]()
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS-f05138?style=flat-square&logo=swift)]()
-
-Photograph a receipt → **on-device Vision OCR** extracts store, amount & date → manual-correct sheet → auto-files to Google Drive as `YYYY-MM-DD_Store_Amount.jpg` under `Receipts / YYYY-MM`. No data leaves the phone until upload.
 
 ---
 
@@ -192,7 +216,7 @@ A **Next.js** platform for Hindu temples, events, and resources — computing **
 | Project | Stack | What it is |
 |---------|-------|------------|
 | **starlance-website** | TypeScript · Next.js | Studio / product site for Starlance |
-| **starlog-website** | TypeScript · Next.js | Marketing site for the Starlog app |
+| **[starlogapp.com](https://starlogapp.com/)** | TypeScript · Next.js | Product & marketing site for Starlog |
 | **[WebLinkScan](https://github.com/vivekreddy/WebLinkScan)** | TypeScript | Crawls a site and reports broken links |
 | **[dev-utility-hub](https://github.com/vivekreddy/dev-utility-hub)** | TypeScript | Collection of developer utilities |
 | **shopify-currency-converter** | Liquid | Storefront currency conversion for Shopify themes |
