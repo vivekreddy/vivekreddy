@@ -57,7 +57,7 @@ Toolkit     : Product Strategy · User Research
 timeline
     title 14+ Years — Engineer → Consultant → Product Leader
     2010 : TCS — Assistant Systems Engineer : Insurance apps (Java · SQL)
-    2014 : Inspirage — Consultant : Logistics mobile app, end to end
+    2014 : Inspirage — Consultant · Mobile App PM : Logistics mobile app, end to end
     2018 : Oracle — Sr Consultant → Sr Product Manager : Pack/Ship App · No-code mobile platform
     2021 : Gainsight — Product Manager : Expansion Planning · Renewal Center 2x users
     2022 : LeanIX — Senior Product Manager : Mobile roadmap · 2x weekly active users
@@ -71,7 +71,7 @@ timeline
 | **Gainsight** | Product Manager | Jan 2021 – Jul 2022 | Launched **Expansion Planning** from ideation in <6 months · **2× unique users** for Renewal Center in 6 months · improved Net Dollar Retention for CS teams |
 | **Oracle** | Senior Product Manager | May 2019 – Jan 2021 | Built **Pack/Ship App** ideation→launch in 6 months · no-code mobile platform cut supply-chain app delivery time **50%** · ran 2 products with 2 Scrum teams (18 engineers) across global time zones |
 | **Oracle** | Senior Consultant | Feb 2018 – May 2019 | Solution Architect for Oracle Fusion Transportation Management |
-| **Inspirage LLC** | Consultant | May 2014 – Feb 2018 | Owned logistics mobile app end-to-end — grew it into a high-impact product |
+| **Inspirage LLC** | Consultant · Product Manager, Mobile App | May 2014 – Feb 2018 | Product-managed the logistics mobile app end-to-end — owned roadmap and delivery, grew it into a high-impact product |
 | **TCS** | Assistant Systems Engineer | Aug 2010 – May 2012 | Insurance applications in Java & SQL |
 
 <div align="center">
