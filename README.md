@@ -40,7 +40,7 @@ Toolkit     : Product Strategy · User Research
 <td width="50%">
 
 **Key Achievements:**
-- 🔍 **[Website Scanner](https://www.browserstack.com/website-scanner)** *(BrowserStack)* — led 0→1 launch; **8,000+ beta users**, validated product-market fit in web testing
+- 🔍 **Website Scanner** *(BrowserStack)* — led 0→1 launch; **8,000+ beta users**, validated product-market fit in web testing
 - 💰 **$1M+ incremental ARR** *(BrowserStack)* — redesigned website, docs & support platform; scaled discoverability from **4 → 20 products**
 - 📈 **Expansion Planning** *(Gainsight)* — ideation to launch in **< 6 months**; enabled revenue expansion for CS teams
 - 📦 **Pack/Ship App** *(Oracle)* — built in 6 months; optimized multi-level warehouse packing & shipping costs
@@ -66,7 +66,7 @@ timeline
 
 | Company | Role | Tenure | Impact |
 |---------|------|--------|--------|
-| **BrowserStack** | Principal Product Manager | Mar 2023 – Present | 0→1 launch of **[Website Scanner](https://www.browserstack.com/website-scanner)** (8,000+ beta users, PMF validated) · **$1M+ incremental ARR** via website/docs/support redesign · scaled discoverability 4→20 products · ICP definition & go/no-go for low-code/no-code testing market |
+| **BrowserStack** | Principal Product Manager | Mar 2023 – Present | 0→1 launch of **Website Scanner** (8,000+ beta users, PMF validated) · **$1M+ incremental ARR** via website/docs/support redesign · scaled discoverability 4→20 products · ICP definition & go/no-go for low-code/no-code testing market |
 | **LeanIX** | Senior Product Manager | Aug 2022 – Mar 2023 | Defined mobile product roadmap · **+100% weekly active users** by removing adoption blockers |
 | **Gainsight** | Product Manager | Jan 2021 – Jul 2022 | Launched **Expansion Planning** from ideation in <6 months · **2× unique users** for Renewal Center in 6 months · improved Net Dollar Retention for CS teams |
 | **Oracle** | Senior Product Manager | May 2019 – Jan 2021 | Built **Pack/Ship App** ideation→launch in 6 months · no-code mobile platform cut supply-chain app delivery time **50%** · ran 2 products with 2 Scrum teams (18 engineers) across global time zones |
