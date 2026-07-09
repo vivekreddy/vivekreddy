@@ -146,7 +146,7 @@ Merchants define Mix & Match bundles with tiered discounts (*any 3 → 10%, any 
 
 ```mermaid
 flowchart LR
-    M["🧑‍💼 Merchant creates bundle<br/>any 3 → 10% · any 5 → 20% off"] --> S["🛍️ Shopper picks<br/>any N items"]
+    M["🏪 Merchant creates bundle<br/>any 3 → 10% · any 5 → 20% off"] --> S["🛍️ Shopper picks<br/>any N items"]
     S --> L["💸 Price updates live<br/>best tier auto-applied"]
     L --> C["✅ Discount survives checkout<br/>no surprises at payment"]
     C --> AN["📊 Bundle funnel<br/>views → add-to-carts → conversions"]
