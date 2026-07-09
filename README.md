@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Principal+Product+Manager+%40+BrowserStack;14%2B+Years+in+B2B+SaaS+%7C+IIM+Mumbai;0%E2%86%921%3A+Website+Scanner+%7C+8%2C000%2B+Users;%241M%2B+Incremental+ARR+Shipped;Building+Starlog+%7C+starlogapp.com;A+PM+Who+Ships%3A+Flutter+%7C+Shopify+%7C+SwiftUI;Product+Strategy+%7C+Monetisation+%7C+Growth&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Principal+Product+Manager+%40+BrowserStack;14%2B+Years+in+B2B+SaaS+%7C+IIM+Mumbai;0%E2%86%921%3A+Website+Scanner+%7C+8%2C000%2B+Users;%241M%2B+Incremental+ARR+Shipped;Starlog%3A+Live+on+App+Store+%2B+Google+Play;A+PM+Who+Ships%3A+Flutter+%7C+Shopify+%7C+SwiftUI;Product+Strategy+%7C+Monetisation+%7C+Growth&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekvardhanreddy/)
 [![Education](https://img.shields.io/badge/IIM_Mumbai-MBA-8957e5?style=for-the-badge&logo=bookstack&logoColor=white)]()
@@ -30,8 +30,8 @@ Specialty   : 0→1 products · platform scaling
               · monetisation · growth
 Education   : IIM Mumbai (MBA) · KIIT (B.Tech CSE)
 Base        : Hyderabad, India
-Edge        : A PM who ships — designs, builds,
-              and launches his own products
+Edge        : A PM who ships — my own app, Starlog,
+              is live on the App Store & Google Play
 Toolkit     : Product Strategy · User Research
               · A/B Testing · GTM · SQL · Claude Code
 ```
@@ -40,7 +40,7 @@ Toolkit     : Product Strategy · User Research
 <td width="50%">
 
 **Key Achievements:**
-- 🔍 **Website Scanner** *(BrowserStack)* — led 0→1 launch; **8,000+ beta users**, validated product-market fit in web testing
+- 🔍 **[Website Scanner](https://www.browserstack.com/website-scanner)** *(BrowserStack)* — led 0→1 launch; **8,000+ beta users**, validated product-market fit in web testing
 - 💰 **$1M+ incremental ARR** *(BrowserStack)* — redesigned website, docs & support platform; scaled discoverability from **4 → 20 products**
 - 📈 **Expansion Planning** *(Gainsight)* — ideation to launch in **< 6 months**; enabled revenue expansion for CS teams
 - 📦 **Pack/Ship App** *(Oracle)* — built in 6 months; optimized multi-level warehouse packing & shipping costs
@@ -66,7 +66,7 @@ timeline
 
 | Company | Role | Tenure | Impact |
 |---------|------|--------|--------|
-| **BrowserStack** | Principal Product Manager | Mar 2023 – Present | 0→1 launch of **Website Scanner** (8,000+ beta users, PMF validated) · **$1M+ incremental ARR** via website/docs/support redesign · scaled discoverability 4→20 products · ICP definition & go/no-go for low-code/no-code testing market |
+| **BrowserStack** | Principal Product Manager | Mar 2023 – Present | 0→1 launch of **[Website Scanner](https://www.browserstack.com/website-scanner)** (8,000+ beta users, PMF validated) · **$1M+ incremental ARR** via website/docs/support redesign · scaled discoverability 4→20 products · ICP definition & go/no-go for low-code/no-code testing market |
 | **LeanIX** | Senior Product Manager | Aug 2022 – Mar 2023 | Defined mobile product roadmap · **+100% weekly active users** by removing adoption blockers |
 | **Gainsight** | Product Manager | Jan 2021 – Jul 2022 | Launched **Expansion Planning** from ideation in <6 months · **2× unique users** for Renewal Center in 6 months · improved Net Dollar Retention for CS teams |
 | **Oracle** | Senior Product Manager | May 2019 – Jan 2021 | Built **Pack/Ship App** ideation→launch in 6 months · no-code mobile platform cut supply-chain app delivery time **50%** · ran 2 products with 2 Scrum teams (18 engineers) across global time zones |
@@ -86,11 +86,13 @@ timeline
 
 > A PM's roadmap is only as good as their grasp of what it takes to build it. These are products I've designed, built, and shipped myself — end to end.
 
-### 📱 Starlog — Receipt Scanner & Expense App *(flagship · live)*
+### 📱 Starlog — Receipt Scanner & Expense App *(flagship · live on both stores)*
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_starlogapp.com-Live-2ea043?style=for-the-badge)](https://starlogapp.com/)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/starlog-receipt-expense-log/id6768408651)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-2ea043?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.starlancegroup.starlog)
+[![Website](https://img.shields.io/badge/🌐_starlogapp.com-Live-8957e5?style=for-the-badge)](https://starlogapp.com/)
 [![Repo](https://img.shields.io/badge/GitHub-starlog-181717?style=for-the-badge&logo=github)](https://github.com/vivekreddy/starlog)
 
 [![Flutter](https://img.shields.io/badge/Flutter-iOS_%2B_Android-02569b?style=flat-square&logo=flutter)]()
@@ -120,6 +122,7 @@ flowchart LR
 
 ```yaml
 Product   : Receipt scanner & expense tracker for small businesses
+Live      : App Store + Google Play + starlogapp.com
 Position  : Drive-native — receipts land in YOUR Drive; Starlog never holds your data
 Teams     : Teammates snap, you approve — free, no per-seat fees
 Monetise  : Subscriptions + consumable receipt packs via RevenueCat
