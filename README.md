@@ -267,13 +267,7 @@ A **Next.js** platform for Hindu temples, events, and resources — computing **
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekreddy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekreddy/vivekreddy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekreddy/vivekreddy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vivekreddy/vivekreddy/output/github-snake.svg" />
-</picture>
-
-<sub>Most of my building happens in private repos — public language stats under-count Swift, Dart, and Liquid.</sub>
+<sub>Most of my building happens in private repos — public stats under-count Swift, Dart, and Liquid.</sub>
 
 </div>
 
