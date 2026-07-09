@@ -93,7 +93,6 @@ timeline
 [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/starlog-receipt-expense-log/id6768408651)
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-2ea043?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.starlancegroup.starlog)
 [![Website](https://img.shields.io/badge/🌐_starlogapp.com-Live-8957e5?style=for-the-badge)](https://starlogapp.com/)
-[![Repo](https://img.shields.io/badge/GitHub-starlog-181717?style=for-the-badge&logo=github)](https://github.com/vivekreddy/starlog)
 
 [![Flutter](https://img.shields.io/badge/Flutter-iOS_%2B_Android-02569b?style=flat-square&logo=flutter)]()
 [![RevenueCat](https://img.shields.io/badge/RevenueCat-Subscriptions_%2B_Receipt_Packs-f25a5a?style=flat-square)]()
