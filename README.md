@@ -142,39 +142,21 @@ Origin    : Validated as a native Swift prototype (on-device Vision OCR → Driv
 
 </div>
 
-Merchants define bundles with tiered discounts (*any 3 → 10%, any 5 → 20%*); shoppers pick any *N* items from configured collections; the storefront widget calculates the discount live — and the discount **survives checkout** via a Cart Transform Function instead of fragile cart attributes.
+Merchants define Mix & Match bundles with tiered discounts (*any 3 → 10%, any 5 → 20%*); shoppers pick any *N* items and watch the price update live. The discount **carries through checkout intact** — the #1 failure mode of bundle apps — and merchants get a funnel view per bundle to iterate on pricing.
 
 ```mermaid
 flowchart LR
-    subgraph SF["🛍️ Storefront (theme)"]
-      W["Bundle Widget<br/>Liquid + vanilla JS/CSS"]
-    end
-    subgraph SH["Shopify platform"]
-      AP["App Proxy<br/>(HMAC-verified)"]
-      CT["Cart Transform<br/>Function"]
-      CO["Checkout"]
-    end
-    subgraph APP["Remix app · embedded admin"]
-      R["Routes"]
-      PL["pricing.ts<br/>tier evaluation"]
-      DB[("Prisma<br/>Bundles · Tiers · Analytics")]
-    end
-    ADM["Merchant<br/>Polaris dashboard"] --> R
-    W -->|"GET bundle + products"| AP --> R
-    W -->|"POST view / add-to-cart / convert"| AP
-    R <--> DB
-    R -. "same tier logic" .-> PL
-    CT -. "JS mirror of pricing.ts" .-> PL
-    CO --> CT -->|"apply best-eligible tier"| CO
+    M["🧑‍💼 Merchant creates bundle<br/>any 3 → 10% · any 5 → 20% off"] --> S["🛍️ Shopper picks<br/>any N items"]
+    S --> L["💸 Price updates live<br/>best tier auto-applied"]
+    L --> C["✅ Discount survives checkout<br/>no surprises at payment"]
+    C --> AN["📊 Bundle funnel<br/>views → add-to-carts → conversions"]
+    AN -->|"iterate on tiers & pricing"| M
 
-    style W fill:#95bf47,color:#fff
-    style AP fill:#5c6ac4,color:#fff
-    style CT fill:#ff6b6b,color:#fff
-    style CO fill:#231f20,color:#fff
-    style R fill:#009688,color:#fff
-    style PL fill:#1f6feb,color:#fff
-    style DB fill:#2d3748,color:#fff
-    style ADM fill:#8957e5,color:#fff
+    style M fill:#8957e5,color:#fff
+    style S fill:#95bf47,color:#fff
+    style L fill:#1f6feb,color:#fff
+    style C fill:#2ea043,color:#fff
+    style AN fill:#f0883e,color:#fff
 ```
 
 <details>
