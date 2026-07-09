@@ -247,7 +247,7 @@ A **Next.js** platform for Hindu temples, events, and resources — computing **
 
 <img src="https://streak-stats.demolab.com?user=vivekreddy&theme=tokyonight&hide_border=true" alt="GitHub Streak — total contributions since 2011" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekreddy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Contribution Calendar](https://ghchart.rshah.org/2ea043/vivekreddy)](https://github.com/vivekreddy)
 
 <sub>Most of my building happens in private repos — public stats under-count Swift, Dart, and Liquid.</sub>
 
